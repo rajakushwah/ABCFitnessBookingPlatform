@@ -17,7 +17,7 @@ This API allows studio owners to create classes and enables members to book clas
     }
     ```
 - Success Response:
-    - **Status:** `201 Created`
+    - **Status:** 201 created
     - **Body:** 
     ```json
     {
@@ -36,7 +36,7 @@ This API allows studio owners to create classes and enables members to book clas
     }
     ```
 - Success Response:
-    - **Status:** `201 Created`
+    - **Status:** 201 Created
     - **Body:**
     ```json
     {
@@ -44,7 +44,7 @@ This API allows studio owners to create classes and enables members to book clas
     }
     ```
 - Error Response (Class Not Found):
-    - **Status:** `404 Not Found`
+    - **Status:** 404 Not Found
     - **Body:**
     ```json
     {
